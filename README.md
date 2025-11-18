@@ -1,3 +1,5 @@
+ Interview Questions - Blog Task 1
+ ---------------------------------------
 What is the use of the keyof keyword in TypeScript? (with Example)
 
 TypeScript-এ keyof একটি বিশেষ অপারেটর যা কোনো object type-এর সবগুলো property name-এর union type তৈরি করে।
@@ -44,7 +46,8 @@ const user: User = {
 
 
 
-
+Interview Questions - Blog Task 2
+----------------------------------------
 What is the use of enums in TypeScript? Provide an example of a numeric and string enum.
 
 TypeScript-এ enum (Enumeration) হলো একটি বিশেষ টাইপ, যা একটি নির্দিষ্ট সেটের স্থির মান (fixed values) সহজে ব্যবস্থাপনার জন্য ব্যবহার করা হয়। এটি মূলত readability, maintainability এবং ভুল কমানোর জন্য খুবই উপকারী।
